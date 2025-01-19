@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "title": "Event 1",
+      "description": "Description 1",
+      "startDate": "2020-12-31T20:14:00.000Z",
+      "endDate": "2021-01-01T15:00:00.000Z",
+      "color": "#4f46e5",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Event 2",
+      "description": "Description 2",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#46e580",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": false
+    },
+    {
+      "id": "3",
+      "title": "Event 3",
+      "description": "Description 3",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#000",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": true
+    },
+    {
+      "id": "4",
+      "title": "Event 4",
+      "description": "Description 4",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#d946e5",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": true
+    },
+    {
+      "id": "5",
+      "title": "Event 5",
+      "description": "Description 5",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#e5a946",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": false
+    },
+    {
+      "id": "6",
+      "title": "Event 6",
+      "description": "Description 6",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#e54646",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": true
+    },
+    {
+      "id": "7",
+      "title": "Event 7",
+      "description": "Description 7",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#46e5d9",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": true
+    },
+    {
+      "id": "8",
+      "title": "Event 8",
+      "description": "Description 8",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#46e5a9",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": false
+    },
+    {
+      "id": "9",
+      "title": "Event 9",
+      "description": "Description 9",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-02",
+      "color": "#46e5a9",
+      "cratedAt": "2021-01-01",
+      "updatedAt": "2021-01-01",
+      "status": true
+    }
+  ]
+}
