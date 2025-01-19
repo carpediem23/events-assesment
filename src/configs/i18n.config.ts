@@ -5,7 +5,7 @@ import languages from '../languages/resources.json';
 
 i18n.use(LanguageDetector).use(initReactI18next).init({
   fallbackLng: 'en',
-  debug: true,
+  debug: false,
   resources: languages,
 });
 
